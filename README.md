@@ -1,0 +1,4 @@
+GaussianBernoulliRBM
+====================
+
+GaussianBernoulliRBM, RBM 
