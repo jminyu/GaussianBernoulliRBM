@@ -1,4 +1,4 @@
 GaussianBernoulliRBM
 ====================
 
-GaussianBernoulliRBM, RBM 
+GaussianBernoulliRBM, RBM and it's applications
